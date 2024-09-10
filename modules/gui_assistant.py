@@ -912,3 +912,15 @@ if __name__ == '__main__':
 	root.iconbitmap('assets/images/assistant2.ico')
 	raise_frame(root1)
 	root.mainloop()
+ 
+ # gui_assistant.py
+from modules.email_handler import send_email
+
+# Example usage in your main function or command handling logic
+subject = "Test Email"
+body = "This is a test email sent from Python."
+to_email = "recipient@example.com"
+from_email = "your_email@example.com"
+password = "your_password"
+
+send_email(subject, body, to_email, from_email, password)
