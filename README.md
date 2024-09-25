@@ -7,8 +7,7 @@
 ![alt text](thumbnail.jpg)
 
 
-#### Watch the demo here 👇👇👇
-https://www.youtube.com/watch?v=tbw7VyBGSw0  
+
 
 
 ## Features / Tasks it can perform:  
